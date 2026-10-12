@@ -1,6 +1,6 @@
 # Copenhagen · 6–9 November 2026
 
-Interactive city guide with 32 places across food & drink, culture, history, art, music, design and other sights. Includes four suggested day plans, beer and indoor filters, search, saved favourites, directions, and links to published electronic music events.
+Interactive city guide with 36 places across food & drink, culture, history, art, nightlife, design and other sights. Includes four suggested day plans, beer and indoor filters, search, saved favourites, directions, and links to published electronic music events. Nightlife includes clubs and area starting points for Kødbyen and Blågårdsgade, with Jolene and Baggen as additional club options.
 
 ## Publish on GitHub Pages
 
