@@ -1,6 +1,6 @@
 # Copenhagen · 6–9 November 2026
 
-Interactive city guide with 33 places across food & drink, culture, history, art, music, design and other sights. Includes four suggested day plans, beer and indoor filters, search, saved favourites, directions, and links to published electronic music events.
+Interactive city guide with 32 places across food & drink, culture, history, art, music, design and other sights. Includes four suggested day plans, beer and indoor filters, search, saved favourites, directions, and links to published electronic music events.
 
 ## Publish on GitHub Pages
 
