@@ -1,6 +1,10 @@
 # Copenhagen · 6–9 November 2026
 
-Interactive city guide with 37 places across food & drink, culture, history, art, nightlife, design and other sights. Includes four suggested day plans, beer and indoor filters, search, saved favourites, directions, and links to published electronic music events. Nightlife includes clubs and area starting points for Kødbyen and Blågårdsgade, with Jolene and Baggen as additional club options.
+Interactive city guide with 43 places across food & drink, culture, history, art, nightlife, design, other sights and neighbourhoods. Includes four suggested day plans, beer and indoor filters, search, saved favourites, directions, and links to published electronic music events. Nightlife includes clubs and area starting points for Kødbyen and Blågårdsgade, with Jolene and Baggen as additional club options.
+
+Neighbourhoods includes 10 area guides: Skt Hans Torv, Strøget, Christiania, Vesterbro, Nørrebro, Østerbro, Sydhavnen, Nyhavn, Kødbyen and Blågårdsgade. Each explains the area's character, things to see and experience, and food and drink options. Some areas also appear in Other or Nightlife, so category counts overlap without duplicating places.
+
+The Getting around guide explains the Finger Plan, central-city orientation, metro, trains, buses, harbour buses, airport connections, tickets and journey planning. It links to official planning and transport sources.
 
 ## Publish on GitHub Pages
 
@@ -21,4 +25,4 @@ Sources were checked on 12 October 2026. Pins are approximate locations. Recheck
 
 ## Verification
 
-Interaction checks passed for all categories, Leaflet marker creation, search, beer/indoor filters, saved places, day plans, deep links, keyboard focus, empty states and map/storage fallback behaviour. The standalone file was independently checked for successful initialization. Visual browser QA and live deployment verification are still pending.
+Interaction checks passed for all categories, Leaflet marker creation, search, beer/indoor filters, saved places, day plans, deep links, keyboard focus, empty states and map/storage fallback behaviour. The standalone file was independently checked for successful initialization. Additional DOM checks cover all 10 neighbourhood guides, overlapping categories, the Getting around dialog and the original planning dialog. GitHub Pages deployment is active; visual browser QA has not been performed.
