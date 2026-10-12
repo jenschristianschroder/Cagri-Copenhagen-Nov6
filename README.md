@@ -1,6 +1,6 @@
 # Copenhagen · 6–9 November 2026
 
-Interactive city guide with 34 places across food & drink, culture, history, art, music, design and other sights. Includes four suggested day plans, beer and indoor filters, search, saved favourites, directions, and links to published electronic music events.
+Interactive city guide with 33 places across food & drink, culture, history, art, music, design and other sights. Includes four suggested day plans, beer and indoor filters, search, saved favourites, directions, and links to published electronic music events.
 
 ## Publish on GitHub Pages
 
@@ -17,7 +17,7 @@ https://jenschristianschroder.github.io/Cagri-Copenhagen-Nov6/
 
 Map tiles require internet access and are provided by OpenStreetMap with attribution. Favourites are stored in the visitor’s browser; shared links include place/filter state, not saved favourites.
 
-Sources were checked on 12 October 2026. Pins are approximate locations. Recheck opening hours, event listings, tickets and entry policies before visiting. Tivoli is marked closed during the trip. Monday’s suggestions account for museum closures.
+Sources were checked on 12 October 2026. Pins are approximate locations. Recheck opening hours, event listings, tickets and entry policies before visiting. Monday’s suggestions account for museum closures.
 
 ## Verification
 
